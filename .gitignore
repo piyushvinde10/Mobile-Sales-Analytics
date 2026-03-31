@@ -1,0 +1,36 @@
+# 🔹 Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 🔹 Virtual Environment
+venv/
+.env/
+env/
+
+# 🔹 Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# 🔹 OS files
+.DS_Store
+Thumbs.db
+
+# 🔹 IDE / Editor files
+.vscode/
+.idea/
+
+# 🔹 Logs
+*.log
+
+# 🔹 Temporary files
+*.tmp
+*.temp
+
+
+
+# 🔹 Environment variables
+.env
+
+# 🔹 Matplotlib cache
+.matplotlib/
